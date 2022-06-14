@@ -1,2 +1,2 @@
 # Week3
-Coding Assignment
+Coding Assignment combining learning of arrays, loops, and functions.
